@@ -1,5 +1,12 @@
+# Frames saved from running sketches
+output/
+
+# Exported apps
+application.*/
+windows-*/
+macos-*/
+linux-*/
+
+# OS clutter
 .DS_Store
-.AppleDouble
-._*
-*~
-/build/shared/reference.zip
+Thumbs.db
